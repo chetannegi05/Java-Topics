@@ -22,5 +22,6 @@ public class HollowRec {
     public static void main(String args[])
     {
         pattern(5, 4);
+        
     }
 }
