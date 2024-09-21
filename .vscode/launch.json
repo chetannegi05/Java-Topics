@@ -6,6 +6,104 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "Java Topics_f27244c9"
+        },
+        {
+            "type": "java",
+            "name": "ReverseTheWordInString",
+            "request": "launch",
+            "mainClass": "String.ReverseTheWordInString",
+            "projectName": "Java Topics_f27244c9"
+        },
+        {
+            "type": "java",
+            "name": "dele",
+            "request": "launch",
+            "mainClass": "String.dele",
+            "projectName": "Java Topics_f27244c9"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "String.Palindrome",
+            "projectName": "Java Topics_f27244c9"
+        },
+        {
+            "type": "java",
+            "name": "UpperCase",
+            "request": "launch",
+            "mainClass": "String.UpperCase",
+            "projectName": "Java Topics_f27244c9"
+        },
+        {
+            "type": "java",
+            "name": "reverse2",
+            "request": "launch",
+            "mainClass": "Normalproject.reverse2",
+            "projectName": "Java Topics_f27244c9"
+        },
+        {
+            "type": "java",
+            "name": "reverseString",
+            "request": "launch",
+            "mainClass": "Normalproject.reverseString",
+            "projectName": "Java Topics_f27244c9"
+        },
+        {
+            "type": "java",
+            "name": "shiftCharacter",
+            "request": "launch",
+            "mainClass": "Normalproject.shiftCharacter",
+            "projectName": "Java Topics_f27244c9"
+        },
+        {
+            "type": "java",
+            "name": "methods",
+            "request": "launch",
+            "mainClass": "String.methods",
+            "projectName": "Java Topics_f27244c9"
+        },
+        {
+            "type": "java",
+            "name": "concatinateAndSpace2",
+            "request": "launch",
+            "mainClass": "String.concatinateAndSpace2",
+            "projectName": "Java Topics_f27244c9"
+        },
+        {
+            "type": "java",
+            "name": "concatinateAndSpace",
+            "request": "launch",
+            "mainClass": "String.concatinateAndSpace",
+            "projectName": "Java Topics_f27244c9"
+        },
+        {
+            "type": "java",
+            "name": "shiftVowels",
+            "request": "launch",
+            "mainClass": "Normalproject.shiftVowels",
+            "projectName": "Java Topics_f27244c9"
+        },
+        {
+            "type": "java",
+            "name": "HealthGame",
+            "request": "launch",
+            "mainClass": "Normalproject.HealthGame",
+            "projectName": "Java Topics_f27244c9"
+        },
+        {
+            "type": "java",
+            "name": "Insertion",
+            "request": "launch",
+            "mainClass": "Insertion",
+            "projectName": "Java Topics_f27244c9"
+        },
+        {
+            "type": "java",
             "name": "sortselection",
             "request": "launch",
             "mainClass": "Sorting.sortselection",
