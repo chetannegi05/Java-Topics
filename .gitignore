@@ -399,3 +399,12 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+
+# Default ignored files
+/shelf/
+/workspace.xml
+.idea
+/out/
+
+*.iml
